@@ -25,7 +25,7 @@
       <h1>マイページ</h1>
       <section>
         <p>
-          あなたのemailは info@webukatu.com です。<br />
+          あなたのemailは info@taku.com です。<br />
           あなたのpassは password です。
         </p>
         <a href="index.php">ユーザー登録画面へ</a>
